@@ -6,6 +6,8 @@ Code 폴더에 있는 ExtracData_Shape_FC_cuttail.py 코드를 실행하여 나�
 Code 폴더에 있는 ExtracData_Shape_FC_cuttail.py 코드를 실행하여 나온 학습 dataset (binary, *.npz) 파일은 DataON 저장소에 업로드하였음.
 (Staedy_airfoil_cuttail_train.npz, Staedy_airfoil_cuttail_test.npz)
 
+그래서, 학습코드 Unet_UIUC_Shape_FC.py를 위한 .dat 2종 및 .npz 2종을 사용하면 Unet_UIUC_Shape_FC.py 실행없이 바로 학습 해볼 수 있음.
+
 인용(APA) - Jung-Hun Shin and Jeong-Hwan Sa. (2025). UIUC airfoil dataset, Grid, Aerodynamics, Computational fluid dynamics, Simulation. doi:10.22711/idr/1209
 
 
