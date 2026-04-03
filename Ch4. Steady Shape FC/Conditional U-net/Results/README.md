@@ -2,6 +2,7 @@
 URL - https://dataon.kisti.re.kr/search/5ebc036e38f6e4a69825d17cc3195719.
 
 Code 폴더에 있는 ExtracData_Shape_FC_cuttail.py 코드를 실행하여 나온 메타데이터(TrainLabel.dat, TestLabel.dat)는 상기 업로드하였음.
+
 Code 폴더에 있는 ExtracData_Shape_FC_cuttail.py 코드를 실행하여 나온 학습 dataset (binary, *.npz) 파일은 DataON 저장소에 업로드하였음.
 (Staedy_airfoil_cuttail_train.npz, Staedy_airfoil_cuttail_test.npz)
 
