@@ -1,6 +1,8 @@
 # UIUC Airfoil Dataset @ DataON 
 URL - https://dataon.kisti.re.kr/search/5ebc036e38f6e4a69825d17cc3195719.
 
+Code 폴더에 있는 ExtracData_Shape_FC_cuttail.py 코드를 실행하여 나온 학습 dataset (binary, *.npz) 파일은 DataON 저장소에 업로드하였음.
+
 인용(APA) - Jung-Hun Shin and Jeong-Hwan Sa. (2025). UIUC airfoil dataset, Grid, Aerodynamics, Computational fluid dynamics, Simulation. doi:10.22711/idr/1209
 
 
